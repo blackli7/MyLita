@@ -25,7 +25,7 @@ Lita.configure do |config|
     #config.robot.adapter = :shell
   #end
   config.robot.adapter = :slack
-	config.adapters.slack.token = "xoxb-1430687886311-1438713928438-cp3MYKbdCJc2Y2bHLPuDFgcR"
+	config.adapters.slack.token = "xoxb-1430687886311-1438713928438-bxWdeB00QAaQjs8hgfUk6BuK"
 
   ## Example: Set options for the chosen adapter.
   # config.adapter.username = "myname"
